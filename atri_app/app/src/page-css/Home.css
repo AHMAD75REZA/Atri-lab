@@ -1,0 +1,65 @@
+.p-Home.Carousel1 {
+;
+}
+.p-Home.TextBox2 {
+;
+}
+.p-Home.TextBox3 {
+background-origin: border-box;
+background-attachment: local;
+position: fixed;
+}
+.p-Home.Countdown1 {
+;
+}
+.p-Home.Image1 {
+;
+}
+.p-Home.Input1 {
+box-sizing: border-box;
+font-variant: tabular-nums;
+font-feature-settings: tnum;
+padding-top: 4px;
+padding-left: 11px;
+padding-bottom: 4px;
+padding-right: 11px;
+color: #000000d9;
+font-size: 14px;
+background-color: #fff;
+background-image: none;
+border-width: 1px;
+border-style: solid;
+border-color: #d9d9d9;
+border-radius: 2px;
+}
+.p-Home.Radio1 {
+cursor: pointer;
+display: inline-flex;
+column-gap: 10px;
+align-items: center;
+}
+.p-Home.Step1 {
+;
+}
+.p-Home.Upload1 {
+align-items: center;
+color: #fff;
+background-color: #1890ff;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 16px;
+border-radius: 2px;
+outline: none;
+font-weight: 400;
+border-width: 1px;
+border-style: solid;
+border-color: #1890ff;
+cursor: pointer;
+user-select: none;
+column-gap: 12px;
+}
+.p-Home.Slider1 {
+width: 400px;
+}
